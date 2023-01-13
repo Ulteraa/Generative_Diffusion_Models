@@ -8,4 +8,4 @@ root_ ='archive/celeba_hq/train'
 device = "cuda"
 lr = 3e-4
 image_chanel=3
-device = torch.device('gpu' if torch.cuda.is_available() else 'cpu')
+device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')

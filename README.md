@@ -7,4 +7,4 @@ Moreover, if you have high computation power you may need to increase the resolu
 
 
 
- For training please run the train.py file but for the testing, once you finished the training, change the checkpoint address in the test.py file.
+ For training please run the train.py file but for the testing, once you finished the training, change the checkpoint address in the test.py file, and test your model.

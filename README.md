@@ -8,3 +8,6 @@ Moreover, if you have high computation power you may need to increase the resolu
 
 
  For training please run the train.py file but for the testing, once you finished the training, change the checkpoint address in the test.py file, and test your model.
+ 
+ 
+ ![im](https://user-images.githubusercontent.com/29463052/212463422-b607e861-76bb-4e8a-8baf-30155e49ee8e.jpg)
